@@ -11,7 +11,7 @@ Network community detection using modularity density measures,
 
 To use the code, follow the steps below:
 
-1. Compile the code using something like:
+1. Compile the code, for example, using:
 
 
 		`gcc -o a.out poc_Qx_matrix_byComp_wei.c Qx_noSP_wei.c -lm -O3`
