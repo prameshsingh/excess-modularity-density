@@ -1,6 +1,6 @@
 # Excess Modularity Density
 
-Computatioanl maximization of excess modularity density ($Q_x$) for weighted networks.
+Computatioanl maximization of excess modularity density (*Q_x*) for weighted networks.
 
 
 If you use this code, please cite the following preprint: 
