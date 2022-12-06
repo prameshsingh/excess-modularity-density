@@ -5,7 +5,7 @@ Computatioanl maximization of excess modularity density (*Q_x*) for weighted net
 
 If you use this code, please cite the following preprint: 
 Resolution limit revisited: community detection using generalized modularity density.
-T. Chen, P. Singh, K. E. Bassler
+T. Chen, P. Singh, K. E. Bassler;
 Network community detection using modularity density measures,
 *J. Stat. Mech.*, 053406 (2018)
 
